@@ -45,7 +45,7 @@ QT designer 和 Pyuic
 - 学号：
 
 ## 下载链接
-- https://drive.google.com/file/d/1vztmSwSZCkVrbgetYx7CaO5sBdKr025G/view?usp=share_link
+- https://drive.google.com/drive/folders/1tHj81aGNVZXzewe0Yh87NOcStuyboGpq?usp=share_link
 
 ----------------------------
 
